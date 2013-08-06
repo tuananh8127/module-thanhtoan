@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AppThemer Crowdfunding\n"
+"POT-Creation-Date: 2013-07-05 11:00-0500\n"
+"PO-Revision-Date: 2013-08-04 13:50+0700\n"
+"Last-Translator: Michael Phan <pdson@outlook.com>\n"
+"Language-Team: Astoundify <contact@astoundify.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../crowdfunding.php:165
+#, php-format
+msgid ""
+"<strong>Notice:</strong> Crowdfunding by Astoundify requires <a href=\"%s"
+"\">Easy Digital Downloads</a> in order to function properly."
+msgstr ""
+
+#: ../includes/campaign.php:89 ../includes/campaign.php:101
+msgid "Campaigns"
+msgstr "Dự án"
+
+#: ../includes/campaign.php:90
+msgid "Campaign"
+msgstr "Dự án"
+
+#: ../includes/campaign.php:91
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: ../includes/campaign.php:92
+msgid "Add New Campaign"
+msgstr "Thêm dự án"
+
+#: ../includes/campaign.php:93
+msgid "Edit Campaign"
+msgstr "Sửa dự án"
+
+#: ../includes/campaign.php:94
+msgid "New Campaign"
+msgstr "Dự án mới"
+
+#: ../includes/campaign.php:95
+msgid "All Campaigns"
+msgstr "Tất cả dự án"
+
+#: ../includes/campaign.php:96
+msgid "View Campaign"
+msgstr "Xem dự án"
+
+#: ../includes/campaign.php:97
+msgid "Search Campaigns"
+msgstr "Tìm kiếm dự án"
+
+#: ../includes/campaign.php:98
+msgid "No Campaigns found"
+msgstr "Không có dự án nào"
+
+#: ../includes/campaign.php:99
+msgid "No Campaigns found in Trash"
+msgstr "Không có dự án nào trong thùng rác"
+
+#: ../includes/campaign.php:161 ../includes/shortcode-profile.php:80
+msgid "Name"
+msgstr "Tên dự án"
+
+#: ../includes/campaign.php:162
+msgid "Type"
+msgstr "Loại"
+
+#: ../includes/campaign.php:163
+msgid "Backers"
+msgstr "Mạnh thường quân"
+
+#: ../includes/campaign.php:164
+msgid "Amount Funded"
+msgstr "Số tiền tài trợ"
+
+#: ../includes/campaign.php:165
+msgid "Days Remaining"
+msgstr "ngày còn lại"
+
+#: ../includes/campaign.php:184
+#, php-format
+msgctxt "funded of goal"
+msgid "%s of %s"
+msgstr "%s trên %s"
+
+#: ../includes/campaign.php:253
+msgid "Campaign Funds"
+msgstr "Số tiền đã kêu gọi "
+
+#: ../includes/campaign.php:255
+msgid "Campaign Stats"
+msgstr "Thống kê dự án"
+
+#: ../includes/campaign.php:256
+msgid "Campaign Updates"
+msgstr "Thông tin cập nhật"
+
+#: ../includes/campaign.php:259
+msgid "Campaign Video"
+msgstr "Video giới thiệu"
+
+#: ../includes/campaign.php:355
+#, php-format
+msgid "Error processing preapproved payment via %s"
+msgstr "Xảy ra lỗi khi thực hiện thanh toán qua %s"
+
+#: ../includes/campaign.php:387
+#, php-format
+msgid "This %s has not reached its funding goal."
+msgstr "Dự án %s chưa đạt được mục tiêu hoàn thành."
+
+#: ../includes/campaign.php:388
+#, php-format
+msgid "You do not have permission to collect funds for %s."
+msgstr "Bạn không được quyền thu tiền ủng hộ của dự án %s"
+
+#: ../includes/campaign.php:389
+#, php-format
+msgid "All payments have been processed and collected for this %s."
+msgstr "Tất cả giao dịch của dự án %s đã được thực hiện và thu tiền."
+
+#: ../includes/campaign.php:390
+#, php-format
+msgid "There are no payments for this %s."
+msgstr "Chưa có giao dịch nào cho dự án %s"
+
+#: ../includes/campaign.php:391
+#, php-format
+msgid ""
+"<strong>Payments processed.</strong> %d payments failed to process. Please "
+"check <a href=\"%s\">gateway logs</a> before trying again."
+msgstr ""
+"<strong>Thanh toán thành công.</strong> %d thanh toán thất bại. Xin vui lòng "
+"kiểm tra <a href=\"%s\">lịch sử thanh toán</a> trước khi thử lại."
+
+#: ../includes/campaign.php:440
+msgid "Whoops, the provided date is invalid."
+msgstr "Hey hey!!! ngày sai rồi kìa!!!"
+
+#: ../includes/campaign.php:457 ../includes/shortcode-submit.php:402
+#: ../includes/shortcode-submit.php:433
+msgid "Limit"
+msgstr "Giới hạn số lượng"
+
+#: ../includes/campaign.php:458
+msgid "Purchased"
+msgstr "Đã ủng hộ"
+
+#: ../includes/campaign.php:512
+msgid "Current Amount:"
+msgstr "Số lượng hiện tại:"
+
+#: ../includes/campaign.php:517
+msgid "Backers:"
+msgstr "Mạnh thường quân:"
+
+#: ../includes/campaign.php:522
+msgid "Days Remaining:"
+msgstr "Ngày còn lại:"
+
+#: ../includes/campaign.php:557
+#, php-format
+msgid ""
+"This %1$s has reached its funding goal. You may now send the funds to the "
+"owner. This will end the %1$s."
+msgstr ""
+"Dự án %1$s đã hoàn thành mục tiêu kêu gọi. Tuy nhiên bạn vẫn có thể ủng hộ "
+"trực tiếp cho chủ dự án. Dự án này sẽ kết thúc %1$s."
+
+#: ../includes/campaign.php:559
+#, php-format
+msgid ""
+"This %1$s is flexible. You may collect the funds at any time. This will end "
+"the %1$s."
+msgstr ""
+"Dự án %1$s được thiết lập chế độ tự thu. Bạn có thể thu tiền bất cứ lúc nào. "
+"This will end the %1$s."
+
+#: ../includes/campaign.php:563
+#, php-format
+msgid "%d payment failed to process."
+msgid_plural "%d payments failed to process."
+msgstr[0] "%d thanh toán thất bại."
+msgstr[1] "%d thanh toán thất bại."
+
+#: ../includes/campaign.php:563
+msgid "View gateway errors"
+msgstr "Xem lỗi của công thanh toán"
+
+#: ../includes/campaign.php:567
+msgid "Collect Failed Payments"
+msgstr "Tập hợp các giao dịch thất bại"
+
+#: ../includes/campaign.php:567
+msgid "Collect Funds"
+msgstr "Thu tiền"
+
+#: ../includes/campaign.php:590
+msgid "oEmbed supported video links."
+msgstr ""
+
+#: ../includes/campaign.php:610
+msgid "Notes and updates about the campaign."
+msgstr "Ghi chú và thông tin cập nhật về dự án."
+
+#: ../includes/campaign.php:659
+msgid "Featured campaign"
+msgstr "Dự án tiềm năng"
+
+#: ../includes/campaign.php:666
+msgid "Collect shipping information on checkout"
+msgstr "Ghi nhận thông tin mạnh thường quân tài trợ"
+
+#: ../includes/campaign.php:671
+msgid "Funding Type:"
+msgstr ""
+
+#: ../includes/campaign.php:681
+msgid "Goal:"
+msgstr "Mục tiêu:"
+
+#: ../includes/campaign.php:690
+msgid "Location:"
+msgstr "Địa chỉ"
+
+#: ../includes/campaign.php:695
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: ../includes/campaign.php:700
+msgid "Contact Email:"
+msgstr "Email liên hệ:"
+
+#: ../includes/campaign.php:707
+msgid "End Date:"
+msgstr "Ngày kết thúc:"
+
+#: ../includes/campaign.php:727
+#, php-format
+msgid "This %s never ends"
+msgstr "Dự án %s không giới hạn ngày kết thúc"
+
+#: ../includes/campaign.php:1225
+msgid "Reward Options:"
+msgstr "Tùy chọn quyền lợi cho nhà tài trợ:"
+
+#: ../includes/campaign.php:1237
+msgid "Enable multiple reward options"
+msgstr "Cho phép nhà tài trợ nhận nhiều quyền lợi"
+
+#: ../includes/campaign.php:1248
+msgid "All-or-nothing"
+msgstr ""
+
+#: ../includes/campaign.php:1249
+msgid ""
+"Only collect pledged funds when the campaign ends if the set goal is met."
+msgstr "Chỉ thu tiền tài trợ khi dự án kết thúc và hoàn thành mục tiêu."
+
+#: ../includes/campaign.php:1252
+msgid "Flexible"
+msgstr "Tự thu"
+
+#: ../includes/campaign.php:1253
+msgid "Collect funds pledged at the end of the campaign no matter what."
+msgstr ""
+"Thu tiền tại trợ khi dự án kết thúc không quan tâm đến thành công hay không."
+
+#: ../includes/campaign.php:1260
+msgid "Donation"
+msgstr "Quyên góp"
+
+#: ../includes/campaign.php:1261
+msgid "Funds will be collected automatically as pledged."
+msgstr "Tự động thu tiền ngay khi mỗi sự tài trợ được nhà đầu tư thanh toán."
+
+#: ../includes/checkout.php:77
+msgid "Hide name on backers list?"
+msgstr "Giấu tên trong danh sách mạnh thường quân."
+
+#: ../includes/emails.php:76
+msgid "Your pledge has been received"
+msgstr "Số tiền đóng góp của bạn đã được chuyển đến chúng tôi."
+
+#: ../includes/emails.php:119
+msgid "Dear {name}"
+msgstr "Xin chào {name}"
+
+#: ../includes/emails.php:120
+msgid ""
+"Thank you for your pledging to support %1$s. This email is just to let you "
+"know your pledge was processed without a hitch! You will only be charged "
+"your pledge amount if the %2$s receives 100% funding."
+msgstr ""
+"Cảm ơn số tiền ủng hộ của bạn cho dự án %1$s. Email này được gửi đến bạn để "
+"thông báo rằng, số tiền bạn đóng góp chắc chắn sẽ phải có ý nghĩa! Cho nên "
+"chúng tôi chỉ tiến hành thu tiền qua hình thức thanh toán khi dự án %2$s "
+"hoàn thành 100% mục tiêu."
+
+#: ../includes/export-campaigns.php:32
+msgid "ID"
+msgstr ""
+
+#: ../includes/export-campaigns.php:33
+msgid "Email"
+msgstr ""
+
+#: ../includes/export-campaigns.php:34
+msgid "First Name"
+msgstr "Tên"
+
+#: ../includes/export-campaigns.php:35
+msgid "Last Name"
+msgstr "Họ và chữ lót"
+
+#: ../includes/export-campaigns.php:36 ../includes/shipping.php:70
+#: ../includes/shipping.php:73
+msgid "Shipping Address"
+msgstr ""
+"Địa chỉ giao hàng (trong trường hợp bạn nhận được tặng phẩm từ chủ dự án)"
+
+#: ../includes/export-campaigns.php:37
+msgid "Pledge"
+msgstr "Đóng góp"
+
+#: ../includes/export-campaigns.php:38
+msgid "Amount"
+msgstr "Số tiền"
+
+#: ../includes/export-campaigns.php:39
+msgid "Tax"
+msgstr "Thuế"
+
+#: ../includes/export-campaigns.php:40
+msgid "Payment Method"
+msgstr "Hình thức thanh toán"
+
+#: ../includes/export-campaigns.php:41
+msgid "Purchase Key"
+msgstr "Mã giao dịch"
+
+#: ../includes/export-campaigns.php:42
+msgid "Date"
+msgstr "Ngày"
+
+#: ../includes/export-campaigns.php:43
+msgid "User"
+msgstr "Tài khoản"
+
+#: ../includes/export-campaigns.php:44
+msgid "Status"
+msgstr "Trạng thái"
+
+#: ../includes/export-campaigns.php:122
+msgid "none"
+msgstr ""
+
+#: ../includes/export-campaigns.php:126
+msgid "guest"
+msgstr "khách"
+
+#: ../includes/export.php:60
+msgid "Export Campaign Data"
+msgstr "Xuất dự liệu dự án"
+
+#: ../includes/export.php:62
+msgid "Download a CSV of all pledges recorded."
+msgstr "Download tất cả thông tin tài trợ dưới dạng CSV"
+
+#: ../includes/export.php:66
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: ../includes/export.php:82
+msgid "Generate CSV"
+msgstr ""
+
+#: ../includes/settings.php:41
+msgid "FAQ Page"
+msgstr ""
+
+#: ../includes/settings.php:42
+msgid "A page with general information about your site. Fees, etc."
+msgstr "Trang thông tin về website, phí..."
+
+#: ../includes/settings.php:49
+msgid "Submit Page"
+msgstr "Trang khởi tạo"
+
+#: ../includes/settings.php:50
+msgid ""
+"The page that contains the <code>[appthemer_crowdfunding_submit]</code> "
+"shortcode."
+msgstr ""
+
+#: ../includes/settings.php:57
+msgid "Profile Page"
+msgstr ""
+
+#: ../includes/settings.php:58
+msgid ""
+"The page that contains the <code>[appthemer_crowdfunding_profile]</code> "
+"shortcode."
+msgstr ""
+
+#: ../includes/settings.php:65
+msgid "Login Page"
+msgstr ""
+
+#: ../includes/settings.php:66
+msgid ""
+"The page that contains the <code>[appthemer_crowdfunding_login]</code> "
+"shortcode."
+msgstr ""
+
+#: ../includes/settings.php:73
+msgid "Register Page"
+msgstr ""
+
+#: ../includes/settings.php:74
+msgid ""
+"The page that contains the <code>[appthemer_crowdfunding_register]</code> "
+"shortcode."
+msgstr ""
+
+#: ../includes/settings.php:97
+msgid "Additional Flexible Fee"
+msgstr ""
+
+#: ../includes/settings.php:98
+msgid ""
+"%. <span class=\"description\">If a campaign is flexible, increase "
+"commission by this percent.</span>"
+msgstr ""
+
+#: ../includes/settings.php:118
+msgid "AppThemer Crowdfunding Settings"
+msgstr ""
+
+#: ../includes/settings.php:119
+msgid "Configuration related to crowdfunding."
+msgstr ""
+
+#: ../includes/settings.php:125
+msgid "Minimum Campaign Length"
+msgstr "Số ngày tối thiểu của dự án"
+
+#: ../includes/settings.php:126
+msgid "The minimum days a campaign can run for."
+msgstr ""
+
+#: ../includes/settings.php:134
+msgid "Maximum Campaign Length"
+msgstr "Số ngày tối đa của dự án"
+
+#: ../includes/settings.php:135
+msgid "The maximum days a campaign can run for."
+msgstr ""
+
+#: ../includes/settings.php:150
+msgid "Campaign Types"
+msgstr ""
+
+#: ../includes/settings.php:151
+msgid "Select which campaign types are allowed."
+msgstr ""
+
+#: ../includes/settings.php:158
+msgid "Require Account"
+msgstr "Yêu cầu tài khoản"
+
+#: ../includes/settings.php:159
+msgid "Require users to be logged in to submit a campaign."
+msgstr "Yêu cầu đăng nhập mới tại dự án mới được."
+
+#: ../includes/shipping.php:74
+msgid "Where should we send any physical goods?"
+msgstr "Địa chỉ để gửi những tặng vật từ chủ dự án đến nhà tài trợ"
+
+#: ../includes/shipping.php:75
+msgid "Address line 1"
+msgstr "Địa chỉ 1"
+
+#: ../includes/shipping.php:79
+msgid "Shipping Address Line 2"
+msgstr "Địa chỉ 1 dòng 2"
+
+#: ../includes/shipping.php:80
+msgid "Address line 2"
+msgstr "Địa chỉ 2"
+
+#: ../includes/shipping.php:84
+msgid "Shipping City"
+msgstr "Thành phố"
+
+#: ../includes/shipping.php:85
+msgid "City"
+msgstr "Thành phố"
+
+#: ../includes/shipping.php:89
+msgid "Shipping Country"
+msgstr "Quốc gia"
+
+#: ../includes/shipping.php:101
+msgid "Shipping State / Province"
+msgstr ""
+
+#: ../includes/shipping.php:102
+msgid "State / Province"
+msgstr ""
+
+#: ../includes/shipping.php:121
+msgid "Shipping Zip / Postal Code"
+msgstr ""
+
+#: ../includes/shipping.php:122
+msgid "Zip / Postal code"
+msgstr ""
+
+#: ../includes/shipping.php:164
+msgid "Please fill out all required shipping fields."
+msgstr "Xin vui lòng nhập đầy đủ các thông tin yêu cầu"
+
+#: ../includes/shipping.php:168
+msgid "The zip code you entered for your shipping address is invalid."
+msgstr "Zip code bạn nhập không phù hợp"
+
+#: ../includes/shortcode-login.php:68
+msgid "Forgot Password"
+msgstr "Quên mật khẩu?"
+
+#: ../includes/shortcode-login.php:71
+msgctxt "login form action divider"
+msgid "or"
+msgstr "hoặc"
+
+#: ../includes/shortcode-login.php:72 ../includes/shortcode-register.php:70
+msgid "Register"
+msgstr "Đăng ký"
+
+#: ../includes/shortcode-profile.php:53
+msgid "Profile Information"
+msgstr "Thông tin cá nhân"
+
+#: ../includes/shortcode-profile.php:60
+msgid "Update"
+msgstr "Cập nhật"
+
+#: ../includes/shortcode-profile.php:97
+msgid "Website/URL"
+msgstr ""
+
+#: ../includes/shortcode-profile.php:117
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: ../includes/shortcode-profile.php:135
+msgid "Biography"
+msgstr "Mô tả bản thân"
+
+#: ../includes/shortcode-profile.php:160
+msgid "Your Campaigns"
+msgstr "Những dự án của bạn"
+
+#: ../includes/shortcode-profile.php:175
+msgid "This campaign is awaiting review."
+msgstr "Dự án này đang chờ được duyệt."
+
+#: ../includes/shortcode-profile.php:179
+#, php-format
+msgid ""
+"This campaign is a draft. <a href=\"%s\">Finish editing</a> it and submit it "
+"for review."
+msgstr ""
+"Dự án này đang lưu dưới dạng bản nháp. <a href=\"%s\">Hãy điền đầy đủ thông "
+"tin </a>và gửi nó đến chúng tôi để xét duyệt."
+
+#: ../includes/shortcode-profile.php:185
+#, php-format
+msgid "Permalink to %s"
+msgstr "Link đến %s"
+
+#: ../includes/shortcode-profile.php:185
+msgid "View"
+msgstr "Xem"
+
+#: ../includes/shortcode-profile.php:186
+#, php-format
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: ../includes/shortcode-profile.php:186
+msgid "Edit"
+msgstr "Sửa"
+
+#: ../includes/shortcode-profile.php:192
+#, php-format
+msgid "Request Payout for %s"
+msgstr "Yêu cầu thanh toán cho %s"
+
+#: ../includes/shortcode-profile.php:192
+msgid "Request Payout"
+msgstr "Yêu cầu thanh toán"
+
+#: ../includes/shortcode-profile.php:196
+#, php-format
+msgid "Export data for %s"
+msgstr "Xuất dữ liệu cho %s"
+
+#: ../includes/shortcode-profile.php:196
+msgid "Export Data"
+msgstr "Xuất dữ liệu"
+
+#: ../includes/shortcode-profile.php:228
+msgid "Your Contributions"
+msgstr "Đóng góp của bạn"
+
+#: ../includes/shortcode-profile.php:239
+#, php-format
+msgctxt "price for download (payment history)"
+msgid "<a href=\"%s\">%s</a> pledge to <a href=\"%s\">%s</a>"
+msgstr "<a href=\"%s\">%s</a> tài trợ cho <a href=\"%s\">%s</a>"
+
+#: ../includes/shortcode-profile.php:329
+msgid "This is not a valid campaign."
+msgstr "Dự án này không phù hợp."
+
+#: ../includes/shortcode-profile.php:332
+msgid "You are not the author of this campaign, and cannot request a payout."
+msgstr ""
+"Bạn không phải là chủ dự án này, bạn không có quyền yêu cầu thanh toán."
+
+#: ../includes/shortcode-profile.php:338
+#, php-format
+msgid "A request for payout has been made for <a href=\"%s\">%s</a>."
+msgstr "Yêu cầu thanh toán cho <a href=\"%s\">%s</a> đã được gửi thành công."
+
+#: ../includes/shortcode-profile.php:344
+#, php-format
+msgid "Payout Request for %s"
+msgstr "Yêu cầu thanh toán cho %s"
+
+#: ../includes/shortcode-profile.php:393
+msgid "You are not the author of this campaign, and cannot request the data."
+msgstr "Bạn không phải là chủ dự án này, bạn không có quyền yêu cầu dữ liệu."
+
+#: ../includes/shortcode-profile.php:429
+msgid "Success! We have been notified of your request."
+msgstr "Thành công!! Chúng tôi đã nhận được yêu cầu của bạn."
+
+#: ../includes/shortcode-profile.php:431
+msgid "Success! Your download should begin shortly."
+msgstr "Thành công! Thông tin Download (nếu có) của bạn sẽ có trong chốc lát."
+
+#: ../includes/shortcode-register.php:50
+msgid "Your Name"
+msgstr "Tên của bạn"
+
+#: ../includes/shortcode-register.php:55
+msgid "Email Address"
+msgstr "Địa chỉ Email"
+
+#: ../includes/shortcode-register.php:60
+msgid "Username"
+msgstr ""
+
+#: ../includes/shortcode-register.php:65
+msgid "Password"
+msgstr ""
+
+#: ../includes/shortcode-register.php:104
+msgid "Please enter a valid email address."
+msgstr "Xin nhập lại Email."
+
+#: ../includes/shortcode-register.php:107 ../includes/shortcode-submit.php:653
+msgid "That contact email address already exists."
+msgstr "Thông tin liên hệ này đã tồn tại trong hệ thống của chúng tôi."
+
+#: ../includes/shortcode-register.php:111
+msgid "Please choose a secure password."
+msgstr "Xin chọn mật khẩu phức tạp hơn."
+
+#: ../includes/shortcode-register.php:115
+msgid "Sorry, this username is already taken."
+msgstr "User name này đã có người đăng ký rồi."
+
+#: ../includes/shortcode-submit.php:53
+msgid "At least one reward is required."
+msgstr "Ít nhất phải có 1 quyền lợi cho nhà tài trợ."
+
+#: ../includes/shortcode-submit.php:62
+#, php-format
+msgctxt "edit \"campaign\""
+msgid "Update %s"
+msgstr "Cập nhật %s"
+
+#: ../includes/shortcode-submit.php:62
+#, php-format
+msgctxt "submit \"campaign\""
+msgid "Submit %s"
+msgstr "Gửi %s"
+
+#: ../includes/shortcode-submit.php:67
+msgid "Preview"
+msgstr "Xem trước"
+
+#: ../includes/shortcode-submit.php:100
+msgid "Campaign Information"
+msgstr "Thông tin dự án"
+
+#: ../includes/shortcode-submit.php:103
+msgid "Title"
+msgstr "Tên dự án"
+
+#: ../includes/shortcode-submit.php:127
+#, php-format
+msgid "Goal (%s)"
+msgstr "Số tiền mục tiêu (%s)"
+
+#: ../includes/shortcode-submit.php:156
+msgid "Length (Days)"
+msgstr "Số ngày:"
+
+#: ../includes/shortcode-submit.php:159
+msgid "No End Date"
+msgstr "Không giới hạn ngày kết thúc"
+
+#: ../includes/shortcode-submit.php:193
+msgid "Funding Type"
+msgstr "Loại tài trợ"
+
+#: ../includes/shortcode-submit.php:193
+msgid "Learn More"
+msgstr "Xem tiếp"
+
+#: ../includes/shortcode-submit.php:230
+msgid "Category"
+msgstr "Danh mục"
+
+#: ../includes/shortcode-submit.php:254
+msgid "Description"
+msgstr "Nội dung mô tả chính"
+
+#: ../includes/shortcode-submit.php:286
+msgid "Updates"
+msgstr "Cập nhật "
+
+#: ../includes/shortcode-submit.php:316
+msgid "Excerpt"
+msgstr "Mô tả ngắn gọn"
+
+#: ../includes/shortcode-submit.php:335
+msgid "Featured Image"
+msgstr "Ảnh đại diện chính (chọn ảnh có độ phân giải càng cao càng tốt)"
+
+#: ../includes/shortcode-submit.php:360
+msgid "Featured Video URL"
+msgstr "URL của Video giới thiệu dự án"
+
+#: ../includes/shortcode-submit.php:378
+msgid "Backer Rewards"
+msgstr "Quyền lợi dành cho nhà tài trợ"
+
+#: ../includes/shortcode-submit.php:381
+msgid "Collect shipping information on checkout."
+msgstr "Ghi nhận thông tin địa chỉ của người tài trợ."
+
+#: ../includes/shortcode-submit.php:392 ../includes/shortcode-submit.php:423
+#, php-format
+msgid "Amount (%s)"
+msgstr "Số tiền (%s)"
+
+#: ../includes/shortcode-submit.php:397 ../includes/shortcode-submit.php:428
+msgid "Reward"
+msgstr "Quyền lợi"
+
+#: ../includes/shortcode-submit.php:429
+msgid "Description of reward for this level of contribution."
+msgstr "Mô tả quyền lợi dành cho nhà tài trợ nếu chấp nhận tài trợ mức độ này."
+
+#: ../includes/shortcode-submit.php:447
+msgid "+ <em>Add Reward</em>"
+msgstr "+ <em>Thêm quyền lợi</em>"
+
+#: ../includes/shortcode-submit.php:463
+msgid "Your Information"
+msgstr "Thông tin của bạn"
+
+#: ../includes/shortcode-submit.php:468
+msgid "Contact Email"
+msgstr "Email liên hệ"
+
+#: ../includes/shortcode-submit.php:470
+msgid ""
+"An account will be created for you with this email address. It must be "
+"active."
+msgstr ""
+"Tài khoản sẽ được tạo gắn liền với email này. Vì thế hãy chắc chắn email này "
+"hoạt động được."
+
+#: ../includes/shortcode-submit.php:473
+#, php-format
+msgid ""
+"<strong>Note</strong>: You are currently logged in as %1$s. This %2$s will "
+"be associated with that account. Please <a href=\"%3$s\">log out</a> if you "
+"would like to make a %2$s under a new account."
+msgstr ""
+"<strong>Lưu ý</strong>: Bạn đang đăng nhập với tài khoản %1$s. Dự án %2$s sẽ "
+"thuộc toàn quyền của tài khoản đang đăng nhập. Nếu muối đổi tài khoản bạn "
+"hoàn toàn có thể <a href=\"%3$s\"> ĐĂNG XUẤT </a> và đăng nhập với tài khoản "
+"mới để đăng %2$s."
+
+#: ../includes/shortcode-submit.php:491
+msgid "Name/Organization Name"
+msgstr "Tên công ty/ tổ chức"
+
+#: ../includes/shortcode-submit.php:508
+msgid "Location"
+msgstr "Địa chỉ"
+
+#: ../includes/shortcode-submit.php:539
+msgid "Success! Your campaign has been received. It will be reviewed shortly."
+msgstr ""
+"Đã gửi thành công! Chúng tôi sẽ tiến hành xét duyệt và đăng dự án của bạn "
+"trong thời gian sớm nhất."
+
+#: ../includes/shortcode-submit.php:603
+msgid "Please agree to the Terms and Conditions"
+msgstr "Xin vui lòng đồng ý với các điều khoản"
+
+#: ../includes/shortcode-submit.php:607
+msgid "Please add a title to this campaign."
+msgstr "Vui lòng nhập tên cho dự án này."
+
+#: ../includes/shortcode-submit.php:613
+#, php-format
+msgid "Please enter a valid goal amount. All goals are set in the %s currency."
+msgstr ""
+"Vui lòng nhập số tiền mục tiêu chính xác. Số tiền này sẽ được tính dưới đơn "
+"vị tiền tệ là %s."
+
+#: ../includes/shortcode-submit.php:638
+msgid "Please add content to this campaign."
+msgstr "Vui lòng nhập nội dung của dự án."
+
+#: ../includes/shortcode-submit.php:646
+msgid "Please add a campaign image."
+msgstr "Vui lòng thêm hình ảnh đại diện cho dự án."
+
+#: ../includes/shortcode-submit.php:650
+msgid "Please add at least one reward to the campaign."
+msgstr "Vui lòng nhập ít nhất 1 quyền lợi cho nhà tài trợ."
+
+#: ../includes/theme-stuff.php:116
+#, php-format
+msgid ""
+"<strong>Funding Unsuccessful</strong>. This project reached the deadline "
+"without achieving its funding goal on %s."
+msgstr ""
+"<strong>Tài trợ thất bại</strong>. Dự án này đã quá hạn mà vẫn chưa đạt được "
+"mục tiêu hoàn thành %s."
+
+#: ../includes/theme-stuff.php:120
+#, php-format
+msgid ""
+"<strong>Funding Successful</strong>. This project reached its goal before %s."
+msgstr ""
+"<strong>Tài trợ thành công</strong>. Dự án này đã đạt mức hoàn thành mục "
+"tiêu %s."
+
+#: ../includes/theme-stuff.php:128
+#, php-format
+msgid ""
+"<strong>Campaign Complete</strong>. This project has ended on %s. No more "
+"contributions can be made."
+msgstr ""
+"<strong>Dự án hoàn thành</strong>. Dự án này đã kết thúc vào %s. Các tài trợ "
+"sẽ không thực hiện được nữa."
+
+#: ../includes/theme-stuff.php:145
+#, php-format
+msgid "This is a preview of your %1$s. <a href=\"%2$s\">Edit</a>"
+msgstr "Đây là bản xem thử của %1$s. <a href=\"%2$s\">Chỉnh sửa</a>"
+
+#: ../includes/gateways/paypal_adaptive_payments.php:38
+msgid ""
+"<strong>Note:</strong> Please upgrade your PayPal Adaptive Payments "
+"extension before collecting funds."
+msgstr ""
+"<strong>Lưu ý:</strong> Please upgrade your PayPal Adaptive Payments "
+"extension before collecting funds."
+
+#: ../includes/gateways/paypal_adaptive_payments.php:55
+msgid "PayPal Email"
+msgstr ""
+
+#: ../includes/gateways/paypal_adaptive_payments.php:73
+msgid "PayPal Adaptive Payments Email:"
+msgstr ""
+
+#: ../includes/gateways/paypal_adaptive_payments.php:91
+msgid "Please make sure your PayPal email address is valid."
+msgstr "Vui lòng chắc chắn là Email Paypal chính xác."
+
+#: ../includes/gateways/paypal_adaptive_payments.php:139
+msgid "Maximum Pledge Amount"
+msgstr "Mức tài trợ tối đa một lần"
+
+#: ../includes/gateways/paypal_adaptive_payments.php:140
+msgid "The maximum amount of money PayPal can accept on your account."
+msgstr "Số tiền lớn nhất mà tài khoản Paypal của bạn có thể nhận được."
+
+#: ../includes/gateways/paypal_adaptive_payments.php:147
+msgid "Maximum Campaigns Per Year"
+msgstr "Số lượng dự án tối đa một năm"
+
+#: ../includes/gateways/paypal_adaptive_payments.php:148
+msgid "The maximum amount of campaigns that each user may create per year."
+msgstr "Số lượng dự án tối đa mỗi tài khoản có thể tạo trong một năm"
+
+#: ../includes/gateways/paypal_adaptive_payments.php:155
+msgid "Maximum Payments Per User"
+msgstr ""
+
+#: ../includes/gateways/paypal_adaptive_payments.php:156
+msgid "The maximum times a user can contribtue to a single campaign."
+msgstr ""
+
+#: ../includes/gateways/paypal_adaptive_payments.php:243
+msgid "You have reached the maximum number of pledges-per-campaign allowed."
+msgstr "Bạn đã đạt giới hạn tối đa trong việc ủng hộ cho cùng một dự án."
+
+#: ../includes/gateways/paypal_adaptive_payments.php:307
+msgid ""
+"You have submitted the maximum number of campaigns allowed for this year."
+msgstr "Bạn đã đạt giới hạn tối đa số dự án được gửi trong năm nay."
+
+#: ../includes/gateways/paypal_adaptive_payments.php:329
+#, php-format
+msgid "<strong>Note:</strong> There is a %s maximum allowed per reward level."
+msgstr ""
+"<strong>Lưu ý:</strong> Có mức giới hạn tối đa %s trên mỗi mức tài trợ."

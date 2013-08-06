@@ -1,0 +1,57 @@
+/*
+	Use this stylesheet to override the default styles
+	in Franklin. 
+
+	For more information about how child themes work, 
+	see http://codex.wordpress.org/Child_Themes
+*/
+
+
+body {
+	font: 13px/20px arial, Georgia, 'Times New Roman', Times, serif; font-size: 1.3rem;	
+}
+
+h1, h2, h3, h4, h5, h6, 
+.menu li,
+button,
+.button, 
+input[type=submit], 
+input[type=reset],
+.campaign-summary li span, 
+.countdown_section,
+.site-title,
+.post-title,
+.page-title,
+legend, 
+.account-links, 
+.barometer span span, 
+.bypostauthor .post-author,
+.meta,
+blockquote cite,
+th, 
+.edd_cart_amount, 
+.footer-notice,
+.campaign-status .campaign-raised span, 
+.campaign-status .campaign-pledged span, 
+.campaign-status .campaign-time-left span,
+.widget_crowdfunding_stats_widget li span {
+	font-family: Arial, Helvetica, sans-serif !important;
+}
+
+
+.format-status .post-title {
+	font-family: Arial, Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.alt {
+	font-family: Arial, Georgia, 'Times New Roman', Times, serif !important;	
+}
+.menu li{font-weight: 600;}
+
+.featured-campaign .share li, .featured-campaign .share .icon {
+    padding: 20px 20px 0 0;
+}
+
+.no-title.no-tagline .site-navigation ul {
+    margin-top: 6px !important;
+}

@@ -1,0 +1,14 @@
+/*
+Theme Name: Fundingvn - child
+Theme URI: http://cnetvn.com
+Author: Michael Phan Edited
+Author URI: http://cnetvn.com
+Description: A child theme skeleton for Fundingvn.com
+Template: fundingvn
+Version: 1.0
+*/
+@import url("../fundingvn/style.css");
+
+.button-small {
+    max-width: 250px; max-width: 25rem;
+}
